@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-if __name__ == '__name__':
+if __name__ == "__name__":
     import sys
     
     count = len(sys.argv) - 1
