@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 """Function that removes all c and C from string"""
 
 def no_c(my_string):
